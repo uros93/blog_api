@@ -1,0 +1,4 @@
+== API FOR STORING POSTS AND COMMENTS
+
+Api made with rails-api gem that stores posts and comments.
+
